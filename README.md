@@ -1,5 +1,7 @@
 # yatra-cypress-tests
 This repository contains automated end-to-end (E2E) tests for Yatra.com using Cypress. The tests are designed to cover critical user flows and ensure the stability and performance of Yatra's web application. These tests include scenarios like booking flights, hotels, and user account management.
+
+
 Description:
 This repository contains automated end-to-end (E2E) tests for Yatra.com, focusing on core features such as hotels, buses, flights, and holiday packages. The tests are built using Cypress to ensure seamless and reliable functionality across these critical services. By automating these scenarios, we aim to improve the quality and stability of Yatra's offerings while providing faster feedback during the development process.
 
